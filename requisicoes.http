@@ -1,0 +1,24 @@
+###
+GET http://localhost:3000/
+
+###
+GET http://localhost:3000/alo
+
+###
+GET http://localhost:3000/api
+
+###
+GET http://localhost:3000/api/alo
+
+###
+GET http://localhost:3000/crud-rest/findAll
+
+###
+POST http://localhost:3000/usuario
+content-type: application/json
+
+{
+    "name": "Alexandre",
+    "email": "alex@nest.js",
+    "senha": "123456"
+}

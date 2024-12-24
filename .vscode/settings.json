@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {},
+    "editor.comments.insertSpace": true,
+    "github.gitAuthentication": false,
+    "github.gitProtocol": "ssh",
+    "github.copilot.advanced": {},
+    "github.copilot.chat.completionContext.typescript.mode": "on",
+    "github.copilot.chat.generateTests.codeLens": true,
+    "github.copilot.chat.search.semanticTextResults": true
+}
